@@ -26,6 +26,7 @@ The goal of this project is to **understand the fundamentals of neural networks 
 # Dataset
 
 The **MNIST dataset** consists of:
+  LINK: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 - 60,000 training images  
 - 10,000 test images  
